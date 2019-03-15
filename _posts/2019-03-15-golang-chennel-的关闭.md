@@ -2,6 +2,7 @@
 layout: post
 title: golang chennel 的关闭
 date: 2019-03-15 11:44 +0800
+comments: true
 ---
 
 > TL;DR
