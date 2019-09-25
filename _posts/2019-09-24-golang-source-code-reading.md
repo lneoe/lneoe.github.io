@@ -2,7 +2,8 @@
 layout: post  
 title: golang source code reading  
 date: 2019-09-24 18:03 +0800  
-categories: [golang, golang runtime 笔记]  
+categories: [golang]
+tags: [golang, golang runtime 笔记]  
 comments: true  
 ---
 

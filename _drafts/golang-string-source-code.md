@@ -1,7 +1,8 @@
 ---
 layout: post  
 title: golang-string-source-code  
-categories: [golang, golang runtime 笔记]  
+categories: [golang]
+tags: [golang, golang runtime 笔记]  
 comments: true  
 ---
 
