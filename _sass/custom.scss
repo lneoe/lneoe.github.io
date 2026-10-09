@@ -40,6 +40,7 @@ body {
 
 .post-nav { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid var(--line); font-size: .9rem; }
 .post-nav a { max-width: 48%; }
+.comments { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }
 .site-footer { border-top: 1px solid var(--line); }
 
 @media (max-width: 600px) {

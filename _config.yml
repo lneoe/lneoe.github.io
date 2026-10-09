@@ -52,3 +52,10 @@ header_pages:
   - tags.md
 minima:
   date_format: "%Y-%m-%d"
+
+comments:
+  giscus:
+    repo: lneoe/lneoe.github.io
+    repo_id: MDEwOlJlcG9zaXRvcnkxNjk1MTQ4MTk=
+    category: Announcements
+    category_id: DIC_kwDOChqXQ84DHYqB
